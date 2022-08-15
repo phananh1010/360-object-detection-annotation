@@ -1,3 +1,6 @@
+![Illustration](https://github.com/phananh1010/360-object-detection-annotation
+/blob/master/illustration.png?raw=true)
+
 # An Tool to Annotate Object Bounding Box for 360 Videos.
 
 This is a tool to annotate bounding boxes for object detection in 360 videos. The tool provides a GUI to locate objects in equirectangular images via mouse interaction. 
