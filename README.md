@@ -29,3 +29,5 @@ Type `q` to quit the program
 # Contact
 If you have any questions, please use the public issues section on this GitHub. Alternatively, drop us an e-mail at mailto:anguy59@gmu.edu.
 
+# Ackowledgement
+This tool is created with contributions from David Joy. A part of the code is reused from the [Pano2Vid](https://github.com/sammy-su/Pano2Vid) project.
