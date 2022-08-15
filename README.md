@@ -1,5 +1,4 @@
-![Illustration](https://github.com/phananh1010/360-object-detection-annotation
-/blob/master/illustration.png?raw=true)
+![Illustration](https://github.com/phananh1010/360-object-detection-annotation/blob/master/illustration.png?raw=true)
 
 # An Tool to Annotate Object Bounding Box for 360 Videos.
 
