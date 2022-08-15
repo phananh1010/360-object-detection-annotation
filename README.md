@@ -9,7 +9,7 @@ This tool has been tested in Windows OS. It may not work on Linux. Python2 is re
 
 
 # Installation
-This program has been tested in the Conda environment. Check requirement.txt for all required packages.
+This program has been tested in the Conda environment. Check `requirement.txt` for all required packages.
 
 # Usage
 Create an `images` folder inside the root folder if it has not been created before. Remove all non `images` files such as .txt from the `images` folder.
@@ -22,7 +22,7 @@ After the program runs, the main window will appear showing content of the first
 
 Drag the mouse from top-right to bottom-left to create a bouding box. Type designated key to assign object class to the bounding box. Refer to `config.ini` file for key-class bindings.
 
-Type 'a' or 'd' to move between images stored inside the 'images' folders
+Type `a` or `d` to move between images stored inside the 'images' folders
 
 Type `q` to quit the program
 
