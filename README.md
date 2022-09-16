@@ -20,9 +20,9 @@ Go into the root folder of this project and start the program using this command
 ```
 python main.py
 ```
-After the program runs, the main window will appear showing content of the first image inside the `images` folder in equirectangular format. Move the mouse cursor to the center of the object to be annotated and left click. Another small window will pop up showing the viewport project of a section inside the equirectangular image.
+After the program runs, the main window will appear showing content of the first image inside the `images` folder in equirectangular format. Move the mouse cursor to the center of the object to be annotated and left click. Another small window will pop up showing the viewport projection containing the object of interest.
 
-Drag the mouse from top-right to bottom-left to create a bouding box. Type designated key to assign object class to the bounding box. Refer to `config.ini` file for key-class bindings.
+Drag the mouse from top-right to bottom-left to create a bouding box. Type the designated key to assign the object class to the bounding box. Refer to `config.ini` file for key-class bindings.
 
 Type `a` or `d` to move between images stored inside the 'images' folders
 Type `z` to undo the most recent action
